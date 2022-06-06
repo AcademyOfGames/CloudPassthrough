@@ -1,10 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using Newtonsoft.Json;
-using UnityEditor.Timeline.Actions;
 using UnityEngine;
-using UnityEngine.XR.Management;
 using Random = UnityEngine.Random;
 
 public class BirdMovement : MonoBehaviour
